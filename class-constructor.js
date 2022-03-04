@@ -1,7 +1,7 @@
 
 // Class, constructor, method, create object from class
 
-class Support {
+class Support{
     constructor(name, location) {
         this.name = name;
         this.location = location;
